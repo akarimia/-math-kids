@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.akarimia.mathkids",
-    "sha256_cert_fingerprints": ["اینجا اثر انگشت SHA-256 کپی شده از signing-key-info.txt را قرار دهید"]
+    "sha256_cert_fingerprints": ["b3XVsD6CU6qJ"]
   }
 }]
