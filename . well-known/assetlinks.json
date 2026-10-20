@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.akarimia.mathkids",
+    "sha256_cert_fingerprints": ["اینجا اثر انگشت SHA-256 کپی شده از signing-key-info.txt را قرار دهید"]
+  }
+}]
